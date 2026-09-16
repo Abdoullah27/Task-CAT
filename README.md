@@ -1,12 +1,15 @@
 # Task-CAT
 
-🚀 Guide: How to Create and Push a GitHub Repository from Scratch
+Markdown
+# 🚀 Guide: How to Create and Push a GitHub Repository from Scratch
+
 This guide walks you through initializing a local Git repository and pushing it to GitHub with descriptive commits.
 
-1. Initialize the Local Repository
+## 1. Initialize the Local Repository
+
 Open your terminal, create a new folder for your project, navigate into it, and initialize Git.
 
-Bash
+```bash
 mkdir my-awesome-project
 cd my-awesome-project
 git init
